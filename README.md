@@ -1,7 +1,5 @@
-### Hi there 👋
+### Lead Automation Engineer with morethan 11 years of experience with Automation & Manual Testing 👋
 
-<!--
-**bhattsagar85/bhattsagar85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
