@@ -1,6 +1,6 @@
 <h2>Sagar Bhatt</h2>
 ---
-<sub>**Lead Automation Engineer at Dynamic Elements Technology (PVT) Ltd | Automation Framework Developer | Automation Consultant | HP AIC | Scrum Fundamental Certified | Selenium | Appium | Rest Assured | JMeter**</sub>
+<h4>**Lead Automation Engineer at Dynamic Elements Technology (PVT) Ltd | Automation Framework Developer | Automation Consultant | HP AIC | Scrum Fundamental Certified | Selenium | Appium | Rest Assured | JMeter**</h4>
 ---
 
 **About Me**
