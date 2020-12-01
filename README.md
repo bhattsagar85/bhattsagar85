@@ -22,3 +22,7 @@
   <li>Experienced in working with various design patterns like Data Driven, Page Object Model, BDD-Cucumber.</li>
   <li>Knoweldge of Continous Integration tool like Jenkins.</li>
   <li>Having hands on experienced working with distributed version control system like Git</li>
+  <li>Reporting and documentation using JIRA and Confluence.</li>
+  
+  ---
+  <h3>Work Experience</h3>
