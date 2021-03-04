@@ -81,7 +81,7 @@
     </tr>
   </tbody>
   </table>
-   <h3>Work Experience</h3>
+    <h3>Work Experience</h3>
   <table>
   <thead>
     <tr>
@@ -101,7 +101,6 @@
   </tbody>
       <tbody>
     <tr>
-      <td>Volansys Technologies</td>
       <td>
         <a href="https://volansys.com/" title="Volansys Technologies rel="nofollow"">
          Volansys Technologies
@@ -112,7 +111,6 @@
   </tbody>
   <tbody>
     <tr>
-      <td>Mobiquity Inc</td>
       <td>
         <a href="https://www.mobiquity.com/" title="Mobiquity Inc rel="nofollow"">
           Mobiquity Inc
@@ -123,7 +121,6 @@
   </tbody>
     <tbody>
     <tr>
-      <td>IGATE Global Solutions Ltd</td>
       <td>
         <a href="https://www.capgemini.com/what-do-capgemini-do/group-overview/capgemini-technology-services-india-limited-formerly-known-as-igate-global-solutions-limited/" title="IGATE Global Solutions Ltd
  rel="nofollow"">
@@ -135,7 +132,6 @@
   </tbody>
       <tbody>
     <tr>
-      <td>Embedded Micro Techniques Pvt Ltd</td>
       <td>
         <a href="https://www.linkedin.com/company/embedded-micro-techniques-p-ltd-/about/" title="Embedded Micro Techniques Pvt Ltd rel="nofollow"">
           Embedded Micro Techniques Pvt Ltd
