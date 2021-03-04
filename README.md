@@ -43,6 +43,41 @@
           ISTQB - International Software Testing Qualifications Board
         </a>
       </td>
+      <td>November, 2020</td>
+    </tr>
+  </tbody>
+      <tbody>
+    <tr>
+      <td>Apache JMeter Intro</td>
+      <td>
+        <a href="https://www.blazemeter.com/university/" title="Apache JMeter Intro rel="nofollow"">
+          Apache JMeter Intro
+        </a>
+      </td>
+      <td>May, 2020</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Scrum Fundamentals Certified</td>
+      <td>
+        <a href="https://www.scrumstudy.com/certification/scrum-fundamentals-certified/" title="Scrum Fundamentals Certified rel="nofollow"">
+          Scrum Fundamentals Certified
+        </a>
+      </td>
+      <td>February, 2015</td>
+    </tr>
+  </tbody>
+    <tbody>
+    <tr>
+      <td>HP Accredited Integration Specialist</td>
+      <td>
+        <a href="https://certification-learning.hpe.com/TR/certifications/" title="HP Accredited Integration Specialist
+ rel="nofollow"">
+          HP Accredited Integration Specialist
+        </a>
+      </td>
+      <td>December, 2013</td>
     </tr>
   </tbody>
   </table>
