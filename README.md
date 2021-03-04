@@ -84,7 +84,7 @@
   
   ---
   
-    <h3>Work Experience</h3>
+   <h3>Work Experience</h3>
   <table>
   <thead>
     <tr>
