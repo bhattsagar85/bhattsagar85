@@ -12,16 +12,18 @@
 <h3>Core Skills</h3>  
 <ul>
   <li>Strong Analytical Skills.</li>
-  <li>String knwoeldge of Object Oriented Programming.</li>
+  <li>String knoweldge of Object Oriented Programming.</li>
   <li>Proficient in JAVA Programming.</li>
+  <li>Proficient in Automation Framework Development.</li>
   <li>Experienced in behaviour driven test automation using Cucumber.</li>
   <li>Web Automation using Selenium & TestCafe.</li>
   <li>Mobile Automation using Appium.</li>
   <li>API Automation using RestAssured.</li>
-  <li>Proficient in Automation Framework Development.</li>
+  <li>Web Automation using TestCafe.</li>
   <li>Experienced in working with various design patterns like Data Driven, Page Object Model, BDD-Cucumber.</li>
   <li>Knoweldge of Continous Integration tool like Jenkins.</li>
-  <li>Having hands on experienced working with distributed version control system like Git</li>
+  <li>Having hands on experienced working with distributed version control system like Git.</li>
+  <li>Well-versed with Microservices Testing.</li>
   <li>Reporting and documentation using JIRA and Confluence.</li>
   
   ---
