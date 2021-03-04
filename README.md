@@ -25,4 +25,25 @@
   <li>Reporting and documentation using JIRA and Confluence.</li>
   
   ---
+  
+  <h3>Certification</h3>
+  <table>
+  <thead>
+    <tr>
+      <th>Certification</th>
+      <th>Issuer</th>
+      <th>Issued Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Certified ISTQB® CTFL</td>
+      <td>
+        <a href="https://www.istqb.org/" title="ISTQB - International Software Testing Qualifications Board rel="nofollow"">
+          ISTQB - International Software Testing Qualifications Board
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  </table>
   <h3>Work Experience</h3>
