@@ -81,7 +81,9 @@
     </tr>
   </tbody>
   </table>
+  
   ---
+  
     <h3>Work Experience</h3>
   <table>
   <thead>
