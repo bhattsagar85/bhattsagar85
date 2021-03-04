@@ -81,6 +81,7 @@
     </tr>
   </tbody>
   </table>
+  ---
     <h3>Work Experience</h3>
   <table>
   <thead>
@@ -92,8 +93,8 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.dynamicelements.no//" title="Dynamic Elements Technologies Private Ltd rel="nofollow"">
-          Dynamic Elements Technologies Private Ltd<
+        <a href="https://www.dynamicelements.no/" title="Dynamic Elements Technologies Private Ltd rel="nofollow"">
+          Dynamic Elements Technologies Private Ltd
         </a>
       </td>
       <td>September, 2017 to Present</td>
